@@ -1,2 +1,2 @@
 # adamfiglewicz.com
-Repository for the adamfiglewicz.com website..
+Repository for the adamfiglewicz.com website.
